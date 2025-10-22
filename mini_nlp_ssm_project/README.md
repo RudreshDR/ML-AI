@@ -10,7 +10,3 @@ This project demonstrates a lightweight NLP module that:
 ## Features
 - GPU-enabled with TensorFlow
 - FastAPI endpoint: `/similar?sentence=...&top_k=3`
-
-## Installation
-```bash
-cd mini_nlp_ssm_project
